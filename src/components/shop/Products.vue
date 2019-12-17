@@ -43,7 +43,6 @@
   import Product from './Product'
   import ProductSheet from './ProductSheet'
 
-
   export default {
     name: "Products",
     components: {
